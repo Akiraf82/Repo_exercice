@@ -1,1 +1,8 @@
 Voici le fichier d'exemple code.txt
+
+ajout de nouveau lignes de codes
+aaaa
+aaaa
+aaaa
+aaaa
+fin d'ajout lignes de codes

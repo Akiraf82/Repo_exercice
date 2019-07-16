@@ -1,1 +1,6 @@
 Voici le fichier d'exemple html.txt
+
+Ajout de nouveaux html
+<html>
+nouveau bout de code html
+</html>
